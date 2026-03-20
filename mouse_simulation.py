@@ -40,7 +40,7 @@ WHEEL_CIRCUMFERENCE = math.pi * WHEEL_DIAMETER_M  # m per revolution
 
 # --- Motor Parameters (at 6 V, estimated from small hobby DC motors) ---
 MOTOR_VOLTAGE_V         = 6.0    # V
-MOTOR_NO_LOAD_RPM       = 592    # RPM  (measure with tachometer in lab)
+MOTOR_NO_LOAD_RPM       = 780    # RPM  (measure with tachometer in lab)
 MOTOR_STALL_TORQUE_NM   = 0.05   # N·m  (estimate; update from datasheet)
 MOTOR_NO_LOAD_SPEED_RPS = MOTOR_NO_LOAD_RPM / 60  # rev/s
 
