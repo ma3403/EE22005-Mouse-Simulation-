@@ -27,7 +27,7 @@ python mouse_simulation.py
 |---|---|---|
 | Initial commit | Added mouse_simulation.py | Base simulation uploaded |
 | Add supporting docs | Added test plan, flowchart, UML diagram | Project documentation |
-| Update RPM | MOTOR_NO_LOAD_RPM 200 to 592 | Lab tachometer measurement |
+| Update RPM | MOTOR_NO_LOAD_RPM 200 to 780 | Lab tachometer measurement |
 | Update torque | MOTOR_STALL_TORQUE_NM 0.05 to 0.03 | Datasheet review |
 
 
